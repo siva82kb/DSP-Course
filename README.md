@@ -4,7 +4,6 @@
 
 The course information document is here: [Course Information](info.pdf)
 
-
 ### Lecture Slides
 Here are the up-to-date lecture slides
 1. [Introduction](lecture_slides/orientation.pdf)
@@ -26,6 +25,35 @@ Here are the up-to-date lecture slides
 17. Short-Time Fourier Transform
 17. Introduction to Wavelet Transforms
 22. Outro
+
+### Lecture Videos
+Here are the links to the lecture videos. You are required to view selected lecture before each week's in-class session. The details of the lecture videos to watch each week is in the [course information document](info.pdf).
+1. [Introduction](https://youtu.be/n8LgrM7dAh0)
+2. Mathematical Preliminaries [[01](https://youtu.be/h3I_REUCsbA)]
+3. Introduction to Python Programming [[01](https://youtu.be/1eXOSy_AHdM)] [[02](https://youtu.be/SOLMLhd_EIs)] [[03](https://youtu.be/Rzvn0RAgetU)]
+4. What are Signals? [[01](https://youtu.be/q3m944tOGzE)] [[02](https://youtu.be/QBt0hPJOELY)]
+5. [Geometric Signal Theory](https://youtu.be/QZqRU7kwsXE)
+6. [Sampling Theorem](https://youtu.be/0HUQt8eE6LE)
+7. [What are Systems?](https://youtu.be/GgNmZyYHAjQ)
+8. Linear Time-Invariant Systems [[01](https://youtu.be/nWwPqLqZFF8)] [[02](https://youtu.be/louRwQAY3I4)]
+9. Fourier Representation of Continuous/Discrete-Time Signals [[01](https://youtu.be/isJZeiWhhLI)] [[02](https://youtu.be/8-QqBFQTJuQ)] [[03](https://youtu.be/p00HvSKdtoc)]
+10. [Sampling Theorem Revisited](https://youtu.be/RyjKPE7QyYI)
+11. Z-Transform [[01](https://youtu.be/RyjKPE7QyYI?t=3667)] [[02](https://youtu.be/m2Y2U1iePtc)]
+13. Frequency Domain Analysis of LTI Systems [[01](https://youtu.be/mvhRxdSf9ns)]
+14. Discrete Fourier Transform [[01](https://youtu.be/X57VLAxmV3U)]  [[02](https://youtu.be/UrqiJIr1Buk)]
+15. Frequency Selective Filters [[01](https://youtu.be/3mzsMDIdDPU)]
+16. Introduction to Spectral Analysis
+17. Short-Time Fourier Transform
+17. Introduction to Wavelet Transforms
+22. Outro
+
+### Additional Discussion videos
+- [Math Prelims](https://youtu.be/yUq7RIp1VLo)
+- [Intro to Python Programming 1](https://youtu.be/d1gH2OCJJL4)
+- [Intro to Python Programming 2](https://youtu.be/tWRTDyL08es)
+- [Signals](https://youtu.be/4Df8UyNxDA8)
+- [Signals, Sampling Theorem](https://youtu.be/c4nfxak-BxY)
+- [LTI Systems](https://youtu.be/5CYayZeL7yg)
 
 ### Course Notes
 None
