@@ -76,6 +76,14 @@ Sl. No | Topic | Problems | Due Date
  12 | Spectral Analysis | Spectral Analysis| 15 Dec 2024
  12 | STFT and Wavelets | STFT and Wavelets| 15 Dec 2024
 
+### Tutorials
+Module-wise tutorials are listed below. These will be discussed during the weekly in-person lecture.
+
+Sl. No | Topic | Problems
+:---: | :---: | :---:
+ 1 | Python Programming  | [Python Programming](tutorials/tutorial1.ipynb)
+ 2 | Signals  | [Signals](tutorials/)
+ 
 ### Exam Dates
 **Mid-Semester Exam:** 22 October 2024, 7:30 - 8:30 AM
 
