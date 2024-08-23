@@ -8,7 +8,7 @@ The course information document is here: [Course Information](info.pdf)
 Here are the up-to-date lecture slides
 1. [Introduction](lecture_slides/orientation.pdf)
 2. [Mathematical Preliminaries](lecture_slides/mathprelim.pdf)
-3. [Introduction to Python Programming](lecture_slides/introtopython.pdf)
+3. [Introduction to Python Programming](lecture_slides/introtopython.pdf)`
 4. [What are Signals?](lecture_slides/signals.pdf)
 5. [Geometric Signal Theory](lecture_slides/geometricsignaltheory.pdf)
 6. [Sampling Theorem](lecture_slides/samplingtheorem.pdf)
