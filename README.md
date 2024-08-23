@@ -4,6 +4,17 @@
 
 The course information document is here: [Course Information](info.pdf)
 
+### Course TAs (Aug 2024)
+<p align="left">
+  <img src="tas/ritwika.png" alt="Ritwika C" width="100"/>
+  <img src="tas/diwakar.png" alt="Diwakar" width="100"/>
+</p>
+
+<p align="left">
+  &nbsp;&nbsp;&nbsp;<span><a href="https://github.com/ParvN">Ritwika C</a></span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span><a href="https://github.com/bkdiwakar34">Diwakar BR</a></span> &nbsp;&nbsp;&nbsp;
+</p>
+
 ### Lecture Slides
 Here are the up-to-date lecture slides
 1. [Introduction](lecture_slides/orientation.pdf)
