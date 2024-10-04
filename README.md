@@ -78,7 +78,7 @@ Sl. No | Topic | Problems | Due Date
  2 | Python Programming  | [Python Programming ]()| 30 Sep 2024
  3 | Signals | [Signals](assignments/signals.pdf)| 30 Sep 2024
  4 | Systems | [Systems](assignments/systems.pdf)| 30 Sep 2024
- 5 | Sampling Theorem | Sampling Theorem| 30 Sep 2024
+ 5 | Programming | [Programming 1](assignments/progamming1.pdf) | 15 Oct 2024
  6 | LTI Systems | LTI Systems| 31 Oct 2024
  7 | Fourier Representation | [Fourier Representation](assignments/fourier.pdf)| 31 Oct 2024
  8 | Z Transform | [Z Transform](assignments/ztransform.pdf)| 30 Nov 2024
