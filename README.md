@@ -51,7 +51,7 @@ Here are the links to the lecture videos. You are required to view selected lect
 10. [Sampling Theorem Revisited](https://youtu.be/RyjKPE7QyYI)
 11. Z-Transform [[01](https://youtu.be/RyjKPE7QyYI?t=3667)] [[02](https://youtu.be/m2Y2U1iePtc)]
 13. Frequency Domain Analysis of LTI Systems [[01](https://youtu.be/mvhRxdSf9ns)]
-14. Discrete Fourier Transform [[01](https://youtu.be/X57VLAxmV3U)]  [[02](https://youtu.be/UrqiJIr1Buk)]
+14. Discrete Fourier Transform [[01](https://youtu.be/X57VLAxmV3U)]  [[02](https://youtu.be/UrqiJIr1Buk)] [[03][https://www.youtube.com/watch?v=ZDWTiSAtMoE]]
 15. Frequency Selective Filters [[01](https://youtu.be/3mzsMDIdDPU)]
 16. Introduction to Spectral Analysis
 17. Short-Time Fourier Transform
